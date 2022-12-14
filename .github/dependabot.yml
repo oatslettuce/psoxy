@@ -10,8 +10,14 @@ updates:
     schedule:
       interval: "daily"
   - package-ecosystem: "maven" 
-    directory: "./java"
-    directory: "./java/core"
     directory: "./java/impl"
+    schedule:
+      interval: "daily"
+  - package-ecosystem: "maven" 
+    directory: "./java"
+    schedule:
+      interval: "daily"
+  - package-ecosystem: "maven" 
+    directory: "./java/core"
     schedule:
       interval: "daily"
