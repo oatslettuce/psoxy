@@ -21,7 +21,7 @@
         <dependency.commons-io.version>2.11.0</dependency.commons-io.version>
         <dependency.apache-httpcore.version>4.4.15</dependency.apache-httpcore.version>
         <dependency.google-cloud-bom.version>0.163.0</dependency.google-cloud-bom.version>
-        <dependency.google-http-client.version>1.41.0</dependency.google-http-client.version>
+        <dependency.google-http-client.version>1.42.3</dependency.google-http-client.version>
         <dependency.google-auth-library-oauth2-http.version>1.2.2</dependency.google-auth-library-oauth2-http.version>
         <dependency.mockito-junit-jupiter.version>4.2.0</dependency.mockito-junit-jupiter.version>
         <dependency.json-path.version>2.7.0</dependency.json-path.version>
