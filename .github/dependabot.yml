@@ -9,11 +9,9 @@ updates:
     directory: "/" # Location of package manifests
     schedule:
       interval: "daily"
-  - package-ecosystem: "gradle" 
-    directory: "/" 
-    schedule:
-      interval: "daily"
   - package-ecosystem: "maven" 
-    directory: "/" 
+    directory: "./java"
+    directory: "./java/core"
+    directory: "./java/impl"
     schedule:
       interval: "daily"
